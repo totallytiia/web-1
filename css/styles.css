@@ -34,6 +34,17 @@ p {
   padding: 7% 15%;
 }
 
+/* Sections */
+
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
 /* Nav Bar */
 
 .navbar {
@@ -56,18 +67,11 @@ p {
   font-weight: 400;
 }
 
-
-
 /* Title */
-
-#title {
-  background-color: #ff4c68;
-  color: #fff;
-  text-align: left;
-}
 
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 .iphone-img {
@@ -105,16 +109,13 @@ p {
 }
 
 #features {
-  background-color: #fff;
   position: relative;
 }
 
 /* Testimonials */
 
 #testimonials {
-
   background-color: #ef8172;
-  color: #fff;
 }
 
 .testimonial-text {
@@ -159,7 +160,6 @@ p {
 /* CTA && Footer */
 
 #cta {
-  background-color: #ff4c68;
   text-align: center;
 }
 
